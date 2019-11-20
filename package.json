@@ -56,7 +56,8 @@
     "tool-bar"
   ],
   "repository": {
+    "type": "git",
     "url": "git+https://github.com/pgilfernandez/tool-bar-pgilfernandez.git"
   },
-  "version": "1.3.0"
+  "version": "1.0.0"
 }
