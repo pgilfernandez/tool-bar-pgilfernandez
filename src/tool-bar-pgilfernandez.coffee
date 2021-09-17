@@ -127,7 +127,7 @@ module.exports =
             @toolBar.addButton
                 'icon': 'eye-dropper'
                 'callback': 'color-picker:open'
-                'tooltip': 'Beautify'
+                'tooltip': 'Color picker'
                 'iconset': 'fa'
 
         @toolBar.addButton
